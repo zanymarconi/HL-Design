@@ -1,5 +1,4 @@
 ## HL-Design
----
 
 #### [System Design Terminologies](https://github.com/donnemartin/system-design-primer)
 * Reverse Proxy (Web Server)
